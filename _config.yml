@@ -1,8 +1,8 @@
 # Site settings
-title: Your Blog
+title: SK Blog
 SEOTitle: 你的博客 | Your Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: starking_lu@outlook.com
 description: ""
 keyword: ""
 url: "http://huangxuan.me"              # your host, for absolute URL
@@ -25,7 +25,7 @@ facebook_username:  huxpro
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.*"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
